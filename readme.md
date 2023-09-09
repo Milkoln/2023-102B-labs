@@ -22,4 +22,4 @@ _You don't have to be an engineer to be a racing driver, but you do have to have
 Спасибо ❤️
 
 ## Лабораторные работы
-- 1. [`unix-sh-utils`](01-unix-sh-utils) -- основы ОС _GNU/Linux_, её утилиты и командная оболочка Unix `*sh`
+1. [`unix-sh-utils`](01-unix-sh-utils) -- основы ОС _GNU/Linux_, её утилиты и командная оболочка Unix `*sh`
