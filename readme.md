@@ -23,3 +23,6 @@ _You don't have to be an engineer to be a racing driver, but you do have to have
 
 ## Лабораторные работы
 1. [`unix-sh-utils`](01-unix-sh-utils) -- основы ОС _GNU/Linux_, её утилиты и командная оболочка Unix `*sh`
+
+## Как сдавать лабораторные?
+Прочитайте данный [гайд](https://github.com/vladeemerr/2023-102B-labs/wiki/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8).
